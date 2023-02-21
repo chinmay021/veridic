@@ -1,1 +1,2 @@
-# veridic
+# veridic 
+# git install
